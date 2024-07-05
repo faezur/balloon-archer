@@ -19,7 +19,7 @@ Collect bonuses to increase your score.
 Survive as long as possible to set a new high score.
 
 ## Gameplay Video
-Watch Gameplay Video (https://youtu.be/6OWIKA-LZdk)
+[Watch Gameplay Video](https://youtu.be/6OWIKA-LZdk)
 
 ## Technologies Used
 Game Engine: Unity
